@@ -1,16 +1,1 @@
-{
-    "githubUsername": "Name-Terry",
-    "blogTitle": "Terry",
-    "blogDescribe": "欢迎来到Terry的个人博客。",
-    "htmlTitle": "Terry的博客",
-    "fontColor": "#ffffff",
-    "useBackgroundImage": false,
-    "backgroundColorLeft": "#2690F9",
-    "backgroundColorRight": "#FC2D2D",
-    "audioUrl": "http://sc1.111ttt.cn:8282/2018/1/03m/13/396131232171.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3",
-    "mini": false,
-    "webSites":[
-        {"name":"v2ex" , "url":"https://www.v2ex.com/member/Terry"}
-    ],
-    "token":"cfe41bfce21af452e38fd94427d8f51479b1a3fb"
-}
+{"githubUsername":"Name-Terry","blogTitle":"Terry","blogDescribe":"欢迎来到Terry的个人博客。","htmlTitle":"Terry的博客","fontColor":"#ffffff","useBackgroundImage":false,"backgroundColorLeft":"#2690F9","backgroundColorRight":"#FC2D2D","audioUrl":"https://audio04.dmhmusic.com/71_53_T10057229599_128_4_1_0_sdk-cpm/cn/0412/M00/75/6D/ChAKEV-D0oKARKIiAENd4uglg1M803.mp3?xcode=8bc479fb8f2c0a0672d509bd68bd31c1a65fd1a","mini":false,"webSites":[{"name":"v2ex","url":"https://www.v2ex.com/member/Terry"}],"token":"cfe41bfce21af452e38fd94427d8f51479b1a3fb","audioAutoPlay":true}
